@@ -1,0 +1,40 @@
+body{
+    background-color: #f59623;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0px;
+    
+}
+
+ol{
+    list-style-position: inside;
+}
+
+header{
+    background-color: #5546f9;
+    font-family: fantasy;
+    padding: 0px
+}
+
+header img{
+    border-radius: 1000px;
+    width: 800px;
+    border: 10px solid #f59623;
+}
+
+div{
+    background-color: azure;    
+    color: azure
+}
+
+img{
+    border-radius: 25px;
+    border: 5px solid #5546f9;
+}
+
+footer{
+    background-color: #5546f9;
+    color: azure;
+    padding: 40px;
+    margin:0px;
+}
